@@ -8,5 +8,5 @@ soma(1000);
         if(i % 7 === 0)
             m7 += i;
     }
-    console.log(m5 + m7);
+    return(m5 + m7);
  }
